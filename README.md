@@ -1,6 +1,6 @@
-# Endev Homebrew Tap
+# en.dev Homebrew Tap
 
-Homebrew formulae for Endev tools.
+Homebrew formulae for en.dev tools.
 
 ```sh
 brew install endevco/tap/aube
