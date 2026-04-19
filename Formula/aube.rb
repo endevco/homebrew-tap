@@ -4,7 +4,6 @@ class Aube < Formula
   url "https://github.com/endevco/aube/archive/refs/tags/v1.0.0-beta.3.tar.gz"
   sha256 "b5366e7aa911e99c8d0854be73a92506236758c06813791bd57da8651da4b074"
   license "MIT"
-  version "1.0.0-beta.3"
 
   depends_on "rust" => :build
 
